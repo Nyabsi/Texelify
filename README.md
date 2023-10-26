@@ -2,17 +2,18 @@
 
 # Texelify
 
-> NOTE: Texelify is still on very early development, you may encounter bugs or features may be missing.
+> NOTE: Texelify is still in its early stages, you may experience issues or missing features.
 
-Texelify is a Blender Grid Add-On which purpose is to aid creators to create texel precise models for various of applications such as video games.
+Texelify is a Blender Grid Add-On that allows artists to produce texel-accurate models for a variety of applications such as video games.
 
 [Click here to download the b](https://github.com/nyabsi/texelify-blender-addon/archive/main.zip)
 
 ## Features
 
-- Customizable Grid (with Texel Density)
-- Wireframe customization in-built
-- TODO
+- Grid (with Texel Density) that can be customized to your liking.
+- Built-in wireframe customization
+
+If you are interested in a new feature, please file a "Issue" with the "Enchantment" Tag, or if you are a developer, please post a Pull Request.
 
 ## Special Thanks
 
