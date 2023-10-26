@@ -6,7 +6,7 @@
 
 Texelify is a Blender Grid Add-On that allows artists to produce texel-accurate models for a variety of applications such as video games.
 
-[Click here to download the b](https://github.com/nyabsi/texelify-blender-addon/archive/main.zip)
+[Click here to download the Beta](https://github.com/nyabsi/texelify-blender-addon/archive/main.zip)
 
 ## Features
 
