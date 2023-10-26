@@ -1,6 +1,6 @@
-<h1 align="center">Texelify</h1>
-
 <img src="/resources/texelify_banner.png">
+
+# Texelify
 
 > NOTE: Texelify is still on very early development, you may encounter bugs or features may be missing.
 
