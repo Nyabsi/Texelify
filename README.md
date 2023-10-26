@@ -1,10 +1,12 @@
-# Texelify
+<h1 align="center">Texelify</h1>
+
+<img src="/resources/texelify_banner.png">
 
 > NOTE: Texelify is still on very early development, you may encounter bugs or features may be missing.
 
 Texelify is a Blender Grid Add-On which purpose is to aid creators to create texel precise models for various of applications such as video games.
 
-[Click here to download the Beta](https://github.com/nyabsi/texelify-blender-addon/archive/main.zip)
+[Click here to download the b](https://github.com/nyabsi/texelify-blender-addon/archive/main.zip)
 
 ## Features
 
